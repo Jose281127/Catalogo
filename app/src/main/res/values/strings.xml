@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Catálogo</string>
+    <string name="Acción">Acción</string>
+    <string name="Arcade">Arcade</string>
+    <string name="Terror">Terror</string>
+    <string name="Shoter">Disparos</string>
+    <string name="Deportes">Deportes</string>
+    <string name="Plataformeros">Plataforma</string>
+    <string name="Estrategia">Estrategia</string>
+    <string name="Rol">Juegos de Rol</string>
+    <string name="Titulo">Título</string>
+    <string name="Anio">Año</string>
+    <string name="Rango">La fecha debe estar entre el año de 1970 al año actual</string>
+    <string name="Fecha_vac">Campo de fecha vacío</string>
+    <string name="Campo">Campo de título vació</string>
+    <string name="Carreras">Carreras</string>
+    <string name="Peleas">Peleas</string>
+    <string name="Musica">Música</string>
+    <string name="Simulador">Simulador</string>
+    <string name="Date">Año de lanzamiento</string>
+    <string name="Categoria">Elige una categoría</string>
+    <string name="Bienvenido">Bienvenido</string>
+    <string name="Validar">Validar</string>
+    <string name="otro">Debes presionar back para introducir otro registro</string>
+    <string name="Validaciotitulo">La mayúscula debe estar al inicio de cada palabra y los números no deben seguir de letras y viceversa</string>
+    <string name="Categorian">Debes seleccionar una categoría</string>
+    <string name="Repetido">Ese registro ya está ingresado, debe cambiar el nombre, el año o la categoría del juego</string>
+
+</resources>

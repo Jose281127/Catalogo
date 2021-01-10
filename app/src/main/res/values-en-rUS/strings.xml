@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Catalogue</string>
+    <string name="Acción">Action</string>
+    <string name="Arcade">Arcade</string>
+    <string name="Terror">Terror</string>
+    <string name="Shoter">Shooter</string>
+    <string name="Deportes">Sports</string>
+    <string name="Plataformeros">" Platform"</string>
+    <string name="Estrategia">" Strategy"</string>
+    <string name="Rol">" Role games"</string>
+    <string name="Titulo">Title</string>
+    <string name="Anio">Year</string>
+    <string name="Rango">" The date must be between the year 1970 to the current year"</string>
+    <string name="Fecha_vac">" Empty date field"</string>
+    <string name="Campo">" Empty title field"</string>
+    <string name="Carreras">" Careers"</string>
+    <string name="Musica">Music</string>
+    <string name="Peleas">" Fights"</string>
+    <string name="Simulador">" Simulator"</string>
+    <string name="Date">" Release year"</string>
+    <string name="Categoria">Chose a category</string>
+    <string name="Bienvenido">Welcome</string>
+    <string name="Validar">Check</string>
+    <string name="otro">" You must press back to enter another record"</string>
+    <string name="Validaciotitulo">The capital letter must be at the beginning of each word and the numbers must not follow letters and vice versa</string>
+    <string name="Categorian">" You must select a category"</string>
+    <string name="Repetido">That record is already entered, you must change the name, year or category of the game</string>
+</resources>

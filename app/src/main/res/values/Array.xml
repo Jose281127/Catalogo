@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Categoria">
+        <item>@string/Categoria</item>
+        <item>@string/Acción</item>
+        <item>@string/Arcade</item>
+        <item>@string/Deportes</item>
+        <item>@string/Estrategia</item>
+        <item>@string/Plataformeros</item>
+        <item>@string/Rol</item>
+        <item>@string/Shoter</item>
+        <item>@string/Terror</item>
+        <item>@string/Carreras</item>
+        <item>@string/Musica</item>
+        <item>@string/Peleas</item>
+        <item>@string/Simulador</item>
+    </string-array>
+
+</resources>
